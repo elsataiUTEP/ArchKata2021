@@ -1,2 +1,4 @@
-= ArchKata2021 repository
 # This repo contains the artifacts of the architecture for the solution to the Architecture Kata Class 
+== The two files included are 
+* The architectural diagram depicting the system components and interactions
+* The PDF file containing description of the solution process and details
