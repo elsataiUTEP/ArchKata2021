@@ -5,8 +5,8 @@
 This repo contains the artifacts of the architecture for the solution to the Architecture Kata Class 
 
 The two files included are:
-* [The architectural diagram depicting the system components and interactions](Architecture-ComponentsAndCommunication.pdf)
+* [The architectural diagram](Architecture-ComponentsAndCommunication.pdf)
 
-* [The architecture document containing description of the solution process and details](SysopsSquadArchitecture-TeamArchSempais.pdf)
+* [The architecture document](SysopsSquadArchitecture-TeamArchSempais.pdf)
 
 
