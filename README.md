@@ -2,7 +2,7 @@
 
 ## Submission for ArchKata 4/21 by Team ArchSempais
 
-This repo contains the artifacts of the architecture for the solution to the Architecture Kata Class 
+This repo contains the architecture artifacts for the solution to the Architecture Kata Class 
 
 The two files included are:
 * [The architectural diagram](Architecture-ComponentsAndCommunication.pdf)
