@@ -7,6 +7,6 @@ This repo contains the artifacts of the architecture for the solution to the Arc
 The two files included are:
 * [The architectural diagram depicting the system components and interactions](Architecture-ComponentsAndCommunication.pdf)
 
-* [The PDF file containing description of the solution process and details](SysopsSquadArchitecture-TeamArchSempais.pdf)
+* [The architecture document containing description of the solution process and details](SysopsSquadArchitecture-TeamArchSempais.pdf)
 
 
